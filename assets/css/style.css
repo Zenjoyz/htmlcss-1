@@ -160,6 +160,10 @@ a {
     align-items: center;
 }
 
+.clients .image img:hover {
+    cursor: pointer;
+}
+
 /* ====Guides====== */
 .guide {
     margin-top: 40px;
